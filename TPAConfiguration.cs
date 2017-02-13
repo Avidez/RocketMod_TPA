@@ -10,7 +10,7 @@ namespace RocketMod_TPA
 
         public void LoadDefaults()
         {
-            this.TPACoolDown = false;
+            this.TPACoolDown = true;
             this.TPACoolDownSeconds = 20;
             this.TPADelay = false;
             this.TPADelaySeconds = 10;
